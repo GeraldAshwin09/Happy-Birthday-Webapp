@@ -1,0 +1,20 @@
+body
+ {
+     background-image: url("alto1.jpg");
+     background-size: cover;
+     color:white;
+
+ }
+
+ #mycanvas
+        {
+            margin-top: 30px;
+            border-width: 10px;
+            border-style: ridge;
+        background-color: white;
+        margin-bottom: 10px;
+        }
+
+        h1{
+            font-size: 100px;
+        }
